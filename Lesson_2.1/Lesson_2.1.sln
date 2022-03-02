@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_2.1", "Lesson_2.1\Lesson_2.1.csproj", "{2CFD1B33-CA21-42DC-9C91-A917DBFBA5D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08D9893A-EAB3-49A3-B6CF-C1DCF7067126}"
+	ProjectSection(SolutionItems) = preProject
+		PersonInfo.json = PersonInfo.json
+		Untitled Diagram.drawio = Untitled Diagram.drawio
+		Untitled Diagram.jpg = Untitled Diagram.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFD1B33-CA21-42DC-9C91-A917DBFBA5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFD1B33-CA21-42DC-9C91-A917DBFBA5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFD1B33-CA21-42DC-9C91-A917DBFBA5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFD1B33-CA21-42DC-9C91-A917DBFBA5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C91E2A-48B9-4405-A191-492F732E846C}
+	EndGlobalSection
+EndGlobal
